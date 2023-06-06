@@ -1,3 +1,11 @@
 .pokedex-header{
+  margin: 0 auto;
   background: #fff url('../../images/container_bg.png');
+  max-width: 1024px;
+  width:100%
+}
+
+.pokedex-header-container{
+  color:#919191;
+  height: 78px;
 }
